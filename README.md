@@ -1,1 +1,7 @@
 # Predictive-Maintenance-in-Solar-Power-System---Case-Study-1
+S4F_CP_Team_11922
+LAVANYA.J    TEAM LEADER
+KEERTHIKA.S
+NANDHANASRI.T
+VAISHNAVI.K
+GOWTHAM.S
